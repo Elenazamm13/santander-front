@@ -18,7 +18,13 @@ body {
     color: #fff;
     background-color: #025157;
   }
-  
+  .fixed-header{
+      position: fixed;
+      background-color: white;
+      top: 0;
+      left: 0;
+      right: 0;
+  }
   .header {
     margin-top: 40px;
     margin-left: 20px;
@@ -85,3 +91,29 @@ body {
     border: 0;
     border-radius: 5px;
   }
+  .promo{
+      display: flex;
+      width: 70%;
+      align-items: center;
+      margin: auto;
+  }
+  .explanatory-video img {
+    width: 120px;
+    margin-top: 10px;
+}
+  .publish{
+      /* -webkit-column-break-inside: cnsd; */
+      margin-left: 5%;
+  }
+  .publish h3 {
+    color: #025157;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.publish > p {
+    color: #343434;
+    font-size: 15px;
+}
+.publish > form {
+
+}
