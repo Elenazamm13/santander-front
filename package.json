@@ -1,0 +1,19 @@
+{
+  "name": "santanderfront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elenazamm13/santander-front.git"
+  },
+  "author": "Elena Zamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elenazamm13/santander-front/issues"
+  },
+  "homepage": "https://github.com/Elenazamm13/santander-front#readme"
+}
